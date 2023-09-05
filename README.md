@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @5H4D0W-X (Shadow X almost everywhere else)
+- 👋 Hi, I’m @5H4D0W-X (ShadowX almost everywhere else)
 - 👀 I’m interested in Electronics and Simple Programming for Microcontrollers
 
 <!---
